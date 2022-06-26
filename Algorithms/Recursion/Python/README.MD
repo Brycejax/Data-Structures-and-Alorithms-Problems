@@ -17,3 +17,9 @@
 ## When to consider it?
  * Every time you are using a tree or converting something into a tree, consider recursion
  * Divide and Conquer using recursion
+
+## Specific Examples
+ * Merge Sort
+ * Quick Sort
+ * Tree Traversal
+ * Graph Traversal
